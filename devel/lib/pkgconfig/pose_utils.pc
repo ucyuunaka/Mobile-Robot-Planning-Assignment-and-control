@@ -1,0 +1,8 @@
+prefix=/home/stuwork/Mobile-Robot-Planning-Assignment-and-control/devel
+
+Name: pose_utils
+Description: Description of pose_utils
+Version: 0.0.0
+Cflags: -I/home/stuwork/Mobile-Robot-Planning-Assignment-and-control/src/Utils/pose_utils/include
+Libs: -L${prefix}/lib -lpose_utils
+Requires: 

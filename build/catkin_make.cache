@@ -1,0 +1,2 @@
+Utils/odom_visualization:Utils/pose_utils:Utils/quadrotor_msgs:Utils/rviz_plugins:Utils/traj_server:Utils/waypoint_generator:map_server/map_generator:map_server/map_render:quadrotor_simulator/so3_control:quadrotor_simulator/so3_quadrotor_simulator:trajectory_generator
+-DCATKIN_DEVEL_PREFIX=/home/stuwork/Mobile-Robot-Planning-Assignment-and-control/devel -DCMAKE_INSTALL_PREFIX=/home/stuwork/Mobile-Robot-Planning-Assignment-and-control/install -G Unix Makefiles
